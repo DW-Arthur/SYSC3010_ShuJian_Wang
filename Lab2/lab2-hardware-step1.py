@@ -1,4 +1,4 @@
-from sense_hat import SenseHat
+from sense_hat import sense_emu
 from sense_hat import SenseHat, ACTION_PRESSED, ACTION_HELD, ACTION_RELEASED
 from signal import pause
 import time
